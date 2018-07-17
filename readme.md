@@ -4,6 +4,10 @@
 
 When consuming SignalR based services I wanted to be able to treat receiving data as an observable stream. This library provides a thin wrapper to allow consumption of SignalR services using RxJS Observables.
 
+## This version uses RxJS 6
+
+to for an rxjs 5 compatible version use 0.1.0
+
 ## What is RxJS?
 
 Refer to the [RxJS docs for that](https://github.com/ReactiveX/rxjs).
